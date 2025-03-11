@@ -105,7 +105,7 @@ Projects = { 1:[":blue[Phi's] | Chatbot Assistant Website",
               """],
               2:[":orange[Review University] | Website rating of universities in Vietnam",
                 """
-                :grey[**Technologies:**] Python, flask, Machine Learning, beautiful soup, Project Jupiter
+                :grey[**Technologies:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
               3:[':green[Swiftlet’s Nest Anh Xuan] | Advertising website',
             """
