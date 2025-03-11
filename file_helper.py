@@ -80,7 +80,7 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
               - :grey[**Technologies:**] Go, Sentry, Firebase, Redis, SMTP, Swagger, MySQL, Github, Docker, Docker Compose, bash, S3, Crontab
               """,
              "https://medipathy.doctorsfile.jp/",
-            "https://apps.apple.com/vn/app/metadoc/id6446609399",
+            "https://apps.apple.com/jp/app/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%A1%E3%83%87%E3%82%A3%E3%83%91%E3%82%B7%E3%83%BC-medipathy/id1668323663",
             "https://play.google.com/store/apps/details?id=jp.doctorsfile.medipathy"],
               [":blue[Paynetvn] | E-wallet Startup", "Database Administrator Intern", "Paynetvn",
               "May 2023 – Sep 2023", "Hangzhou, China", 
