@@ -16,7 +16,7 @@ with body:
             st.subheader(title)
         with col3:
             st.write("")
-            st.markdown("######   " + date)
+            st.markdown("###### " + date)
         col1, _, col3 = st.columns([3, 1, 1])
         with col1:
             st.markdown("###### " + position + " at " + company)
