@@ -63,7 +63,7 @@ info = {'brief':
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
 
 Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Software",
-              "March 2023 – Ferbuary 2025", "HCMC, VN",  
+              "Mar 2023 – Feb 2025", "HCMC, VN",  
               """  
               - :grey[**Description:**] The project has a duty to bring healthcare to every home including urban and remote areas and that is a Family Doctor Program  
               - :grey[**Responsibilities:**] I was responsible for handling some services such as: live chat service, telehealth service, third-party service, chatbot service, newsfeed service, notification service, internal request service,...Moreover, I used JavaScript to support Frontend configuration and run push notification, process the task of recording the appointment. Specifically, I mention technical tasks, such as coding, debugging, designing architecture, optimizing performance, writing technical documents, researching new technology, etc. I collaborate with the team to describe any collaborative aspects such as agile methodologies, sprint planning or cross-functional team coordination and clarify the required use cases
@@ -73,7 +73,7 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
             "https://apps.apple.com/vn/app/metadoc/id6446609399",
             "https://play.google.com/store/apps/details?id=com.fpt.metadoc"],
             [":orange[Medipathy] | Healthcare Management", "Backend Developer", "Executionlab.asia",
-              "June 2022 – March 2023", "HCMC, VN", 
+              "Jun 2022 – Mar 2023", "HCMC, VN", 
               """
               - :grey[**Description:**] The project Assistance in assignment management and employee work, widely notified and easy communication, optimize the management process of clinics and hospitals more effectively
               - :grey[**Responsibilities:**] Collaborate with teammates and communicate with clients to clarify business use case, develop the frameworks and modules of the system. Prepare documents and technical guide for new developers joining the team
@@ -83,7 +83,7 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
             "https://apps.apple.com/jp/app/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%A1%E3%83%87%E3%82%A3%E3%83%91%E3%82%B7%E3%83%BC-medipathy/id1668323663",
             "https://play.google.com/store/apps/details?id=jp.doctorsfile.medipathy"],
               [":blue[Paynetvn] | E-wallet Startup", "Database Administrator Intern", "Paynetvn",
-              "October 2021 – January 2022", "HCMC, VN", 
+              "Oct 2021 – Jan 2022", "HCMC, VN", 
               """
               - :grey[**Description:**] The project is a startup that provides a secure and convenient way to pay for goods and services online
               - :grey[**Responsibilities:**] Migrated data application from MSSQL to Oracle database and wrote procedures and triggers following requirements workflow. Wrote scripts and generated test data using Mockaroo and tested by Postman
