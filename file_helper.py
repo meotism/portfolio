@@ -83,7 +83,7 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
             "https://apps.apple.com/jp/app/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%A1%E3%83%87%E3%82%A3%E3%83%91%E3%82%B7%E3%83%BC-medipathy/id1668323663",
             "https://play.google.com/store/apps/details?id=jp.doctorsfile.medipathy"],
               [":blue[Paynetvn] | E-wallet Startup", "Database Administrator Intern", "Paynetvn",
-              "May 2023 – Sep 2023", "Hangzhou, China", 
+              "October 2021 – January 2022", "HCMC, VN", 
               """
               - :grey[**Description:**] The project is a startup that provides a secure and convenient way to pay for goods and services online
               - :grey[**Responsibilities:**] Migrated data application from MSSQL to Oracle database and wrote procedures and triggers following requirements workflow. Wrote scripts and generated test data using Mockaroo and tested by Postman
