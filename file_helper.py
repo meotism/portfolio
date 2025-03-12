@@ -57,7 +57,8 @@ info = {'brief':
         'skills':['Python','Go','C#','Docker Compose','bash','Figma',
                   'Microservices','Monolithic','Console','uWSGI','nginx','MongoDB',
                   'PostgreSQL','MySQL','mqtt','Crontab','Git','SSO','flask','Unix',
-                  'Webhook', 'Sentry','Redis','Swagger','RESTfulAPI'],
+                  'Webhook', 'Sentry','Redis','Swagger','REST APIs', 
+                  'EC2', 'S3', 'Smtp', 'Firebase', 'TDD']
         }
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
