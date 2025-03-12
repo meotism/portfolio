@@ -44,10 +44,12 @@ github_logo = '''
 # personal info (for main page) --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 info = {'brief':
               """    
-                Hi, my name’s Tuan, aka Meotism. I’m a Software Developer with 3+ years of experience building scalable backend web apps using Python, Go and C#. \
-                    My passion lies in developing applications for a large user base and enhancing the user experience to ensure easy access and smooth usage. \
-                        I was evaluated by everyone around me as a responsible person and persistently completed the assigned tasks. I’m always eager to learn new technologies and languages and can quickly adapt to them. \
-                            Besides, I have written blogs at [Dev Community](https://dev.to/meotism)
+                Hi, my name’s Tuan, aka Meotism. I have 3+ years of experience as a Software Developer, \
+                  primarily focusing on backend development using programming languages such as Python, Go, C#, and Node.js.\
+                    I have been consistently evaluated by those around me as a responsible person who is always committed to self-improvement. \
+                      My interests include reading news, IT blogs, and listening to podcasts to stay updated on the latest technologies\
+                        and trends happening worldwide, which allows me to quickly adapt to new advancements. \
+                          Additionally, I have written blogs at [Dev Community](https://dev.to/meotism)
               """,
         "title":"Software Developer",
         'fullname':'Tran Ngoc Tuan', 
