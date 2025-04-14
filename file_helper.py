@@ -65,7 +65,7 @@ info = {'brief':
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
 
-Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Software",
+Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Corporation",
               "Mar 2023 – Feb 2025", "HCMC, VN",  
               """  
               - :grey[**Description:**] The project has a duty to bring healthcare to every home including urban and remote areas and that is a Family Doctor Program  
