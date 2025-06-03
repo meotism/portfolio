@@ -56,11 +56,11 @@ info = {'brief':
         'study':'Ho Chi Minh City University of Science',
         'location':'HCMC, VietNam',
         'interest':'Reading news, books, and IT blogs along with cooking and playing sports such as badminton, football, ping pong, etc',
-        'skills':['Python','Go','C#','Docker Compose','bash','Figma',
-                  'Microservices','Monolithic','Console','uWSGI','nginx','MongoDB',
+        'skills':['Python','Go','C#','Docker','bash','Echo', 'Djangosss'
+                  'Microservices','Monolithic','Console','WSGI','nginx','MongoDB',
                   'PostgreSQL','MySQL','mqtt','Crontab','Git','SSO','flask','Unix',
-                  'Webhook', 'Sentry','Redis','Swagger','REST APIs', 
-                  'EC2', 'S3', 'Smtp', 'Firebase', 'TDD']
+                  'Webhook', 'Sentry','Redis','Swagger','REST APIs',
+                  'EC2', 'S3', 'Smtp', 'Firebase', 'Celery']
         }
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
