@@ -56,9 +56,9 @@ info = {'brief':
         'study':'Ho Chi Minh City University of Science',
         'location':'HCMC, VietNam',
         'interest':'Reading news, books, and IT blogs along with cooking and playing sports such as badminton, football, ping pong, etc',
-        'skills':['Python','Go','C#','Docker','bash','Echo', 'Django'
+        'skills':['Python','Go','C#','Docker','bash','Echo', 'Django',
                   'Microservices','Monolithic','Console','WSGI','nginx','MongoDB',
-                  'PostgreSQL','MySQL','mqtt','Crontab','Git','SSO','flask','Unix',
+                  'PostgreSQL','MySQL','mqtt','Crontab','Git','SSO','flask',
                   'Webhook', 'Sentry','Redis','Swagger','REST APIs',
                   'EC2', 'S3', 'Smtp', 'Firebase', 'Celery']
         }
