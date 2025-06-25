@@ -27,14 +27,33 @@ with body:
         st.markdown(f"###### 📸 Interest: {info['interest']}")
         st.markdown(f"###### 👀 Linkedin: {linkedin_link}")
         
-        with open("assets/resume.pdf", "rb") as file:
-            pdf_file = file.read()
+        # with open("assets/resume.pdf", "rb") as file:
+        #     pdf_file = file.read()
 
-        st.download_button(
-            label="Download my :blue[resume]",
-            data=pdf_file,
-            file_name="resume",
-            mime="application/pdf")
+        # st.download_button(
+        #     label="Download my :blue[resume]",
+        #     data=pdf_file,
+        #     file_name="resume",
+        #     mime="application/pdf")
+        st.markdown("""
+            <a href="https://docs.google.com/document/d/1KmfB0SgKI2zO4GEtd_9q8f5mJbwdgYlcLyGVxPhRjfs/edit?usp=sharing" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            style="text-decoration:none;">
+                <button style="
+                    background-color:#4CAF50; 
+                    color:white; 
+                    padding:10px 20px; 
+                    border:none; 
+                    border-radius:5px; 
+                    cursor:pointer;
+                    font-size:16px;
+                ">
+                    Open my resume
+                </button>
+            </a>
+        """, unsafe_allow_html=True)
+
 
     with col3:
         st.image("assets/itsme.jpg", width=360)
