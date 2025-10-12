@@ -44,8 +44,8 @@ github_logo = '''
 # personal info (for main page) --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 info = {'brief':
               """    
-                Hi, my name’s Tuan, aka Meotism. I have 3+ years of experience as a Software Developer, \
-                  primarily focusing on backend development using programming languages such as Python, Go, C#, and Node.js.\
+                Hi, my name’s Tuan, aka Meotism. I have more than four years of experience as a Software Developer, \
+                  primarily focusing on backend development using programming languages such as Python, Go, and C#.\
                     I have been consistently evaluated by those around me as a responsible person who is always committed to self-improvement. \
                       My interests include reading news, IT blogs, and listening to podcasts to stay updated on the latest technologies\
                         and trends happening worldwide, which allows me to quickly adapt to new advancements. \
@@ -65,12 +65,27 @@ info = {'brief':
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
 
-Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Corporation",
+Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Business Solution",
+              "Mar 2025 – Now", "HCMC, VN",  
+              """  
+              - :grey[**Description:**] The product has some feature: Call center, Knownledge base, Report, Loyalty, etc to support customers in optimizing management processes and developing features and features for customer care services
+              - :grey[**Responsibilities:**] I was responsible for handle Migrated three billion records purchase order and bill data, implement Loyalty service
+
+                - Wrote tools troubleshooting MongoDB systems to support add/remove various types of indexes, monitor slow query and config setting tools
+                - Implement and maintain features: call-center to catch missed call interaction and create tasks for agency, action log, daily user activities, workflow,,...
+                - Maintain and optimize the pipeline mongodb and API reports help reduce running time by 30%, tracking user activities in Report service, enhance supports generating time series reports
+
+              - :grey[**Stacks:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
+              """,  
+            "https://metadoc.vn/",
+            "https://apps.apple.com/vn/app/metadoc/id6446609399",
+            "https://play.google.com/store/apps/details?id=com.fpt.metadoc"],
+            [":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Corporation",
               "Mar 2023 – Feb 2025", "HCMC, VN",  
               """  
-              - :grey[**Description:**] The project has a duty to bring healthcare to every home including urban and remote areas and that is a Family Doctor Program  
+              - :grey[**Description:**] The application has a duty to bring healthcare to every home including urban and remote areas and that is a Family Doctor Program
               - :grey[**Responsibilities:**] I was responsible for handling some services such as: live chat service, telehealth service, third-party service, chatbot service, newsfeed service, notification service, internal request service,...Moreover, I used JavaScript to support Frontend configuration and run push notification, process the task of recording the appointment. Specifically, I mention technical tasks, such as coding, debugging, designing architecture, optimizing performance, writing technical documents, researching new technology, etc
-              - :grey[**Technologies:**] Python, Flask, mqtt, Redis, nginx, consult, uWSGI, NodeJS, MongoDB, Webhook, SSO, PostgreSQL, Gitlab, Firebase, Docker, Docker Compose, S3, Crontab
+              - :grey[**Stacks:**] Python, Flask, mqtt, Redis, nginx, consult, uWSGI, NodeJS, MongoDB, Webhook, SSO, PostgreSQL, Gitlab, Firebase, Docker, Docker Compose, S3, Crontab
               """,  
             "https://metadoc.vn/",
             "https://apps.apple.com/vn/app/metadoc/id6446609399",
@@ -78,9 +93,9 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
             [":orange[Medipathy] | Healthcare Management", "Backend Developer", "Executionlab.asia",
               "Jun 2022 – Mar 2023", "HCMC, VN", 
               """
-              - :grey[**Description:**] The project assistance in assignment tasks management and employee work, widely notified and easy communication, optimize the management process of clinics and hospitals more effectively
+              - :grey[**Description:**] The service assistance in assignment tasks management and employee work, widely notified and easy communication, optimize the management process of clinics and hospitals more effectively
               - :grey[**Responsibilities:**] Collaborate with teammates and communicate with clients to clarify business use case, develop the frameworks and modules of the system. Prepare documents and technical guide for new developers joining the team
-              - :grey[**Technologies:**] Go, Echo, Sentry, Firebase, Redis, SMTP, Swagger, MySQL, Github, Docker, Docker Compose, bash, S3, Crontab
+              - :grey[**Stacks:**] Go, Echo, Sentry, Firebase, Redis, SMTP, Swagger, MySQL, Github, Docker, Docker Compose, bash, S3, Crontab
               """,
              "https://medipathy.doctorsfile.jp/",
             "https://apps.apple.com/jp/app/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%A1%E3%83%87%E3%82%A3%E3%83%91%E3%82%B7%E3%83%BC-medipathy/id1668323663",
@@ -88,9 +103,9 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
               [":blue[Paynetvn] | E-wallet Startup", "Database Administrator Intern", "Paynetvn",
               "Oct 2021 – Jan 2022", "HCMC, VN", 
               """
-              - :grey[**Description:**] The project is a startup that provides a secure and convenient way to pay for goods and services online
-              - :grey[**Responsibilities:**] Migrated data application from MSSQL to Oracle database and wrote procedures and triggers following requirements workflow. Wrote scripts and generated test data using Mockaroo and tested by Postman
-              - :grey[**Technologies:**] Oracle, Mockaroo, Postman, MSSQL
+              - :grey[**Description:**] The pay-wallet is a startup that provides a secure and convenient way to pay for goods and services online
+              - :grey[**Responsibilities:**] Migrated data application from MSSQL to Oracle database and wrote procedures and triggers following requirements workflow. Wrote scripts and generated test data using Mockaroo. Beside do task manual test and stress test by Postman
+              - :grey[**Stacks:**] Oracle, Mockaroo, Postman, MSSQL
               """,
              "https://business.paynetvn.com/",
             "http://paynetvn.com/",
@@ -104,23 +119,23 @@ Experience = [[":green[Metadoc] | Healthcare Platform", "Software Engineer",  "F
 
 Projects = { 1:[":blue[Phi's] | Chatbot Assistant Website",
               """
-             :grey[**Technologies:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
+             :grey[**Stacks:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
               """],
               2:[":orange[Review University] | Website rating of universities in Vietnam",
                 """
-                :grey[**Technologies:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
+                :grey[**Stacks:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
               3:[':green[Swiftlet’s Nest Anh Xuan] | Advertising website',
             """
-            :grey[**Technologies:**] wordpress, cpanel, DNS, LAMP server, design UI/content
+            :grey[**Stacks:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
               4:[":red[Jisti's] | Video Conference meeting",
             """
-            :grey[**Technologies:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
+            :grey[**Stacks:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
               5:[':blue[Meotism] | My portfolio',  
             """
-            :grey[**Technologies:**] Python, Streamlit, html, css
+            :grey[**Stacks:**] Python, Streamlit, html, css
             """]
             }
               
