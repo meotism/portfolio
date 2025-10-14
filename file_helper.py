@@ -75,7 +75,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
                 - Implement and maintain features: call-center to catch missed call interaction and create tasks for agency, action log, daily user activities, workflow,,...
                 - Maintain and optimize the pipeline mongodb and API reports help reduce running time by 30%, tracking user activities in Report service, enhance supports generating time series reports
 
-              - :grey[**Stacks:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
+              - :grey[** Tech stack:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
               """,  
             "https://metadoc.vn/",
             "https://apps.apple.com/vn/app/metadoc/id6446609399",
@@ -85,7 +85,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
               """  
               - :grey[**Description:**] The application has a duty to bring healthcare to every home including urban and remote areas and that is a Family Doctor Program
               - :grey[**Responsibilities:**] I was responsible for handling some services such as: live chat service, telehealth service, third-party service, chatbot service, newsfeed service, notification service, internal request service,...Moreover, I used JavaScript to support Frontend configuration and run push notification, process the task of recording the appointment. Specifically, I mention technical tasks, such as coding, debugging, designing architecture, optimizing performance, writing technical documents, researching new technology, etc
-              - :grey[**Stacks:**] Python, Flask, mqtt, Redis, nginx, consult, uWSGI, NodeJS, MongoDB, Webhook, SSO, PostgreSQL, Gitlab, Firebase, Docker, Docker Compose, S3, Crontab
+              - :grey[**Tech stack:**] Python, Flask, mqtt, Redis, nginx, consult, uWSGI, NodeJS, MongoDB, Webhook, SSO, PostgreSQL, Gitlab, Firebase, Docker, Docker Compose, S3, Crontab
               """,  
             "https://metadoc.vn/",
             "https://apps.apple.com/vn/app/metadoc/id6446609399",
@@ -95,7 +95,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
               """
               - :grey[**Description:**] The service assistance in assignment tasks management and employee work, widely notified and easy communication, optimize the management process of clinics and hospitals more effectively
               - :grey[**Responsibilities:**] Collaborate with teammates and communicate with clients to clarify business use case, develop the frameworks and modules of the system. Prepare documents and technical guide for new developers joining the team
-              - :grey[**Stacks:**] Go, Echo, Sentry, Firebase, Redis, SMTP, Swagger, MySQL, Github, Docker, Docker Compose, bash, S3, Crontab
+              - :grey[**Tech stack:**] Go, Echo, Sentry, Firebase, Redis, SMTP, Swagger, MySQL, Github, Docker, Docker Compose, bash, S3, Crontab
               """,
              "https://medipathy.doctorsfile.jp/",
             "https://apps.apple.com/jp/app/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%A1%E3%83%87%E3%82%A3%E3%83%91%E3%82%B7%E3%83%BC-medipathy/id1668323663",
@@ -105,7 +105,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
               """
               - :grey[**Description:**] The pay-wallet is a startup that provides a secure and convenient way to pay for goods and services online
               - :grey[**Responsibilities:**] Migrated data application from MSSQL to Oracle database and wrote procedures and triggers following requirements workflow. Wrote scripts and generated test data using Mockaroo. Beside do task manual test and stress test by Postman
-              - :grey[**Stacks:**] Oracle, Mockaroo, Postman, MSSQL
+              - :grey[**Tech stack:**] Oracle, Mockaroo, Postman, MSSQL
               """,
              "https://business.paynetvn.com/",
             "http://paynetvn.com/",
@@ -119,23 +119,23 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
 
 Projects = { 1:[":blue[Phi's] | Chatbot Assistant Website",
               """
-             :grey[**Stacks:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
+             :grey[**Tech stack:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
               """],
               2:[":orange[Review University] | Website rating of universities in Vietnam",
                 """
-                :grey[**Stacks:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
+                :grey[**Tech stack:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
               3:[':green[Swiftlet’s Nest Anh Xuan] | Advertising website',
             """
-            :grey[**Stacks:**] wordpress, cpanel, DNS, LAMP server, design UI/content
+            :grey[**Tech stack:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
               4:[":red[Jisti's] | Video Conference meeting",
             """
-            :grey[**Stacks:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
+            :grey[**Tech stack:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
               5:[':blue[Meotism] | My portfolio',  
             """
-            :grey[**Stacks:**] Python, Streamlit, html, css
+            :grey[**Tech stack:**] Python, Streamlit, html, css
             """]
             }
               

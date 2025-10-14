@@ -56,7 +56,7 @@ with body:
 
 
     with col3:
-        st.image("assets/itsme.jpg", width=360)
+        st.image("assets/avt.jpg", width=360)
 
     # skills --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     st.subheader("My :blue[skills] ⚒️",divider='rainbow') #,divider='rainbow'
