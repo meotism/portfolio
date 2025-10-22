@@ -78,9 +78,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
 
               - :grey[** Tech stack:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
               """,  
-            "https://metadoc.vn/",
-            "https://apps.apple.com/vn/app/metadoc/id6446609399",
-            "https://play.google.com/store/apps/details?id=com.fpt.metadoc"],
+            "https://www.basebs.com/", "", ""],
             [":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Corporation",
               "Mar 2023 – Feb 2025", "HCMC, VN",  
               """  

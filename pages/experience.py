@@ -26,10 +26,12 @@ with body:
         col1, col2, col3 = st.columns([1, 1, 1])
         with col1:
             st.link_button("Website", web_link)
-        with col2:
-            st.link_button("App Store", appstore_link)
-        with col3:
-            st.link_button("Google Play", chplay_link)
+        if exp[7] != "":
+            with col2:
+                st.link_button("App Store", appstore_link)
+        if exp[8] != "":
+            with col3:
+                st.link_button("Google Play", chplay_link)
         st.divider()
 
     for exp in Experience:
