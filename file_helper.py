@@ -75,8 +75,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
                 - Implement and maintain features: call-center to catch missed call interaction and create tasks for agency, action log, daily user activities, workflow,,...
                 - Maintain and optimize the pipeline mongodb and API reports help reduce running time by 30%, tracking user activities in Report service, enhance supports generating time series reports
                 - Integration feature history update article KnowledgeBase
-
-              - :grey[** Tech stack:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
+              - :grey[**Tech stack:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
               """,  
             "https://www.basebs.com/", "", ""],
             [":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Corporation",
