@@ -115,30 +115,38 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
 #      'project2':[HEADER, CONTENT]
 #      ...}
 
-Projects = { 1:[":blue[Phi's] | Chatbot Assistant Website",
+Projects = {  1: [":red[Cap cuu cuu ho | Simulation SOS Emergency Vietnam map system]",
+                  """
+             :grey[**Tech stack:**] Python, Flask, OSM, Google S2, HTML, Shell, batchfile
+              """],
+              2: [':green[English Flashcard] | Application learn vocabulary English',
+            """
+            :grey[**Tech stack:**] Python, Flask, HTML, css, javascript, batchfile
+            """],
+              3:[":blue[Phi's] | Chatbot Assistant Website",
               """
              :grey[**Tech stack:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
               """],
-              2:[":orange[Review University] | Website rating of universities in Vietnam",
+              4:[":orange[Review University] | Website rating of universities in Vietnam",
                 """
                 :grey[**Tech stack:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
-              3:[':green[Swiftlet’s Nest Anh Xuan] | Advertising website',
+              5:[':green[Swiftlet’s Nest Anh Xuan] | Advertising website',
             """
             :grey[**Tech stack:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
-              4:[":red[Jisti's] | Video Conference meeting",
+              6:[":red[Jisti's] | Video Conference meeting",
             """
             :grey[**Tech stack:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
-              5:[':blue[Meotism] | My portfolio',  
+              7:[':blue[Meotism] | My portfolio',  
             """
             :grey[**Tech stack:**] Python, Streamlit, html, css
             """]
             }
               
 # Contacts --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-phone = "935724391"
+phone = "0935724391"
 email = "tranngoctuan391@gmail.com"
 linkedin_link = "www.linkedin.com/in/meotism"
 github_link = "https://github.com/meotism"
