@@ -20,17 +20,17 @@ with body:
     project_component(Projects[1][0], Projects[1][1])
     col1, col2 = st.columns([1, 1])
     with col1:
-        st.link_button("Go to :blue[Source Code]", "https://github.com/meotism/Cap-cuu-cuu-ho")
+        st.link_button("Go to :red[Source Code]", "https://github.com/meotism/Cap-cuu-cuu-ho")
     with col2:
-        st.link_button("Go to :blue[Website]", "https://meotism.pythonanywhere.com/")
+        st.link_button("Go to :red[Website]", "https://meotism.pythonanywhere.com/")
 
     # Flashcard English
     project_component(Projects[2][0], Projects[2][1])
     col1, col2 = st.columns([1, 1])
     with col1:
-        st.link_button("Go to :blue[Source Code]", "https://github.com/meotism/flashcard")
+        st.link_button("Go to :green[Source Code]", "https://github.com/meotism/flashcard")
     with col2:
-        st.link_button("Go to :blue[Website]", "https://flashcard.pythonanywhere.com/")
+        st.link_button("Go to :green[Website]", "https://flashcard.pythonanywhere.com/")
 
     # Chatbot’s Phi  ----------------------------------------------------------------
     project_component(Projects[3][0], Projects[3][1])

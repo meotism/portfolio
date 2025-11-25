@@ -115,7 +115,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
 #      'project2':[HEADER, CONTENT]
 #      ...}
 
-Projects = {  1: [":red[Cap cuu cuu ho | Simulation SOS Emergency Vietnam map system]",
+Projects = {  1: [":red[Cap cuu cuu ho] | Simulation SOS Emergency Vietnam map system",
                   """
              :grey[**Tech stack:**] Python, Flask, OSM, Google S2, HTML, Shell, batchfile
               """],
