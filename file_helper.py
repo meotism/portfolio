@@ -135,7 +135,7 @@ Projects = {  1: [":red[Cap cuu cuu ho] | Simulation SOS Emergency Vietnam map s
             """
             :grey[**Tech stack:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
-              6:[":red[Jisti's] | Video Conference meeting",
+              6:[":red[Jitsi's] | Video Conference meeting",
             """
             :grey[**Tech stack:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
