@@ -44,7 +44,7 @@ github_logo = '''
 # personal info (for main page) --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 info = {'brief':
               """    
-                Hi, my name’s Tuan, aka Meotism. I have more than four years of experience as a Software Developer, \
+                Hi, my name's Tuan, aka Meotism. I have more than four years of experience as a Software Developer, \
                   primarily focusing on backend development using programming languages such as Python, Go, and C#.\
                     I have been consistently evaluated by those around me as a responsible person who is always committed to self-improvement. \
                       My interests include reading news, IT blogs, and listening to podcasts to stay updated on the latest technologies\
@@ -139,11 +139,11 @@ Projects = {  1: [":red[Quan Ly Chi Tieu] | Smart Group Expense Management Web A
                   """
              :grey[**Tech stack:**] Python, Flask, OSM, Google S2, HTML, Shell, batchfile
               """],
-              5: [‘:green[English Flashcard] | Application learn vocabulary English’,
+              5: [':green[English Flashcard] | Application learn vocabulary English',
             """
             :grey[**Tech stack:**] Python, Flask, HTML, css, javascript, batchfile
             """],
-              6:[":blue[Phi’s] | Chatbot Assistant Website",
+              6:[":blue[Phi's] | Chatbot Assistant Website",
               """
              :grey[**Tech stack:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
               """],
@@ -151,15 +151,15 @@ Projects = {  1: [":red[Quan Ly Chi Tieu] | Smart Group Expense Management Web A
                 """
                 :grey[**Tech stack:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
-              8:[‘:green[Swiftlet’s Nest Anh Xuan] | Advertising website’,
+              8:[":green[Swiftlet's Nest Anh Xuan] | Advertising website",
             """
             :grey[**Tech stack:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
-              9:[":red[Jitsi’s] | Video Conference meeting",
+              9:[":red[Jitsi's] | Video Conference meeting",
             """
             :grey[**Tech stack:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
-              10:[‘:blue[Meotism] | My portfolio’,
+              10:[':blue[Meotism] | My portfolio',
             """
             :grey[**Tech stack:**] Python, Streamlit, html, css
             """]
