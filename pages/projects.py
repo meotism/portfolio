@@ -18,7 +18,11 @@ with body:
 
     # Quan Ly Chi Tieu - Expense Management
     project_component(Projects[1][0], Projects[1][1])
-    st.link_button("Go to :red[Source Code]", "https://github.com/meotism/quan-ly-chi-tieu")
+    col1, col2 = st.columns([1, 1])
+    with col1:
+        pass
+    with col2:
+        st.link_button("Go to :red[Website]", "https://quan-ly-chi-tieu-xi.vercel.app/")
 
     # F&B Multi-channel
     project_component(Projects[2][0], Projects[2][1])
