@@ -65,9 +65,17 @@ info = {'brief':
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
 
-Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Business Solution",
-              "Mar 2025 – Now", "HCMC, VN",  
-              """  
+Experience = [[":violet[Skylink Group] | Technology Solutions", "Software Engineer",  "Skylink Group",
+              "Dec 2025 – Now", "HCMC, VN",
+              """
+              - :grey[**Description:**] Skylink Group provides technology solutions and services
+              - :grey[**Responsibilities:**] Working as a Software Engineer
+              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, Terraform, PostgreSQL, Redis, Kafka, gRPC, Microservices, Git
+              """,
+            "https://skylink.com.vn/", "", ""],
+            [":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Business Solution",
+              "Mar 2025 – Dec 2025", "HCMC, VN",
+              """
               - :grey[**Description:**] The product has some feature: Call center, Knownledge base, Report, Loyalty, etc to support customers in optimizing management processes and developing features and features for customer care services
               - :grey[**Responsibilities:**] I was responsible for handle Migrated three billion records purchase order and bill data, implement Loyalty service
 
@@ -76,7 +84,7 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
                 - Maintain and optimize the pipeline mongodb and API reports help reduce running time by 30%, tracking user activities in Report service, enhance supports generating time series reports
                 - Integration feature history update article KnowledgeBase
               - :grey[**Tech stack:**] Django, Celery, Docker, daphne, MongoDB, pandas, marshmallow, threading, podman, Redis, Postman, Gitlab, SMTP, MSSQL, Monstache, Elasticsearch
-              """,  
+              """,
             "https://www.basebs.com/", "", ""],
             [":green[Metadoc] | Healthcare Platform", "Software Engineer",  "FPT Corporation",
               "Mar 2023 – Feb 2025", "HCMC, VN",  
@@ -115,31 +123,43 @@ Experience = [[":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Busine
 #      'project2':[HEADER, CONTENT]
 #      ...}
 
-Projects = {  1: [":red[Cap cuu cuu ho] | Simulation SOS Emergency Vietnam map system",
+Projects = {  1: [":red[Quan Ly Chi Tieu] | Smart Group Expense Management Web App",
+                  """
+             :grey[**Tech stack:**] Next.js, React, TypeScript, Tailwind CSS, Supabase, Upstash Redis, Recharts, Zod, Nodemailer, Playwright, Zalo Bot
+              """],
+              2: [":green[F&B Multi-channel] | Multi-channel Food & Beverage Order Management",
+                  """
+             :grey[**Tech stack:**] JavaScript, HTML, CSS, TypeScript, PLpgSQL, Supabase, Vercel Cron, Playwright, Service Workers
+              """],
+              3: [":blue[Bomb IT 3D] | Interactive 3D Game Demo with Three.js",
+                  """
+             :grey[**Tech stack:**] JavaScript, CSS, HTML, Three.js, WebGL
+              """],
+              4: [":red[Cap cuu cuu ho] | Simulation SOS Emergency Vietnam map system",
                   """
              :grey[**Tech stack:**] Python, Flask, OSM, Google S2, HTML, Shell, batchfile
               """],
-              2: [':green[English Flashcard] | Application learn vocabulary English',
+              5: [‘:green[English Flashcard] | Application learn vocabulary English’,
             """
             :grey[**Tech stack:**] Python, Flask, HTML, css, javascript, batchfile
             """],
-              3:[":blue[Phi's] | Chatbot Assistant Website",
+              6:[":blue[Phi’s] | Chatbot Assistant Website",
               """
              :grey[**Tech stack:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
               """],
-              4:[":orange[Review University] | Website rating of universities in Vietnam",
+              7:[":orange[Review University] | Website rating of universities in Vietnam",
                 """
                 :grey[**Tech stack:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
-              5:[':green[Swiftlet’s Nest Anh Xuan] | Advertising website',
+              8:[‘:green[Swiftlet’s Nest Anh Xuan] | Advertising website’,
             """
             :grey[**Tech stack:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
-              6:[":red[Jitsi's] | Video Conference meeting",
+              9:[":red[Jitsi’s] | Video Conference meeting",
             """
             :grey[**Tech stack:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
-              7:[':blue[Meotism] | My portfolio',  
+              10:[‘:blue[Meotism] | My portfolio’,
             """
             :grey[**Tech stack:**] Python, Streamlit, html, css
             """]
