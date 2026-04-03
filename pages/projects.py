@@ -67,7 +67,7 @@ with body:
     # Review University ----------------------------------------------------------------
     project_component(Projects[7][0], Projects[7][1])
     st.link_button("Go to :orange[Source Code]", "https://github.com/meotism/Quality_Assessment_Review/tree/master")
-    components.iframe("https://docs.google.com/presentation/d/1a14wXlSTbYt6-oknulVRM6DZLjObwIFTfY9725mR3fk/edit?usp=sharing", width=800, height=600, scrolling=True)
+    components.iframe("https://docs.google.com/presentation/d/1a14wXlSTbYt6-oknulVRM6DZLjObwIFTfY9725mR3fk/embed?start=false&loop=false&delayms=3000", width=800, height=600, scrolling=True)
 
     # Swiftlet’s Nest Anh Xuan --------------------------------------------------------------
     project_component(Projects[8][0], Projects[8][1])
