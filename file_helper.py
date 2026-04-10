@@ -72,7 +72,7 @@ Experience = [[":violet[Skylink Group] | Technology Solutions", "Software Engine
               """
               - :grey[**Description:**] Skylink Group provides technology solutions and services
               - :grey[**Responsibilities:**] Working as a Software Engineer
-              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, Terraform, PostgreSQL, Redis, Kafka, gRPC, Microservices, Git, NestJS, BigQuery, Firestore
+              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, PostgreSQL, Redis, gRPC, Microservices, Git, NestJS, BigQuery, Firestore
               """,
             "https://skylink.vn/", "", ""],
             [":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Business Solution",
