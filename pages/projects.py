@@ -16,8 +16,16 @@ with body:
         st.subheader(header, divider='grey')
         st.write(content)
 
-    # Quan Ly Chi Tieu - Expense Management
+    # Thư Viện Môi Trường - Environmental Portal
     project_component(Projects[1][0], Projects[1][1])
+    col1, col2 = st.columns([1, 1])
+    with col1:
+        pass
+    with col2:
+        st.link_button("Go to :violet[Website]", "https://thuvienmoitruong.vn/")
+
+    # Quan Ly Chi Tieu - Expense Management
+    project_component(Projects[2][0], Projects[2][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         pass
@@ -25,7 +33,7 @@ with body:
         st.link_button("Go to :red[Website]", "https://quan-ly-chi-tieu-xi.vercel.app/")
 
     # F&B Multi-channel
-    project_component(Projects[2][0], Projects[2][1])
+    project_component(Projects[3][0], Projects[3][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         st.link_button("Go to :green[Source Code]", "https://github.com/meotism/F-B-multi-channel")
@@ -33,7 +41,7 @@ with body:
         st.link_button("Go to :green[Website]", "https://meotism.github.io/F-B-multi-channel/")
 
     # Bomb IT 3D - Three.js Game
-    project_component(Projects[3][0], Projects[3][1])
+    project_component(Projects[4][0], Projects[4][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         st.link_button("Go to :blue[Source Code]", "https://github.com/meotism/Three.js")
@@ -41,7 +49,7 @@ with body:
         st.link_button("Go to :blue[Website]", "https://meotism.github.io/Three.js/")
 
     # cap cuu cuu ho
-    project_component(Projects[4][0], Projects[4][1])
+    project_component(Projects[5][0], Projects[5][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         st.link_button("Go to :red[Source Code]", "https://github.com/meotism/Cap-cuu-cuu-ho")
@@ -49,7 +57,7 @@ with body:
         st.link_button("Go to :red[Website]", "https://meotism.github.io/Cap-cuu-cuu-ho/")
 
     # Flashcard English
-    project_component(Projects[5][0], Projects[5][1])
+    project_component(Projects[6][0], Projects[6][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         st.link_button("Go to :green[Source Code]", "https://github.com/meotism/flashcard")
@@ -57,7 +65,7 @@ with body:
         st.link_button("Go to :green[Website]", "https://flashcard.pythonanywhere.com/")
 
     # Chatbot’s Phi  ----------------------------------------------------------------
-    project_component(Projects[6][0], Projects[6][1])
+    project_component(Projects[7][0], Projects[7][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         st.link_button("Go to :blue[Source Code]", "https://github.com/meotism/chatbot/blob/main/streamlit_app.py")
@@ -65,20 +73,20 @@ with body:
         st.link_button("Go to :blue[Website]","https://phi-chatbot.streamlit.app")
 
     # Review University ----------------------------------------------------------------
-    project_component(Projects[7][0], Projects[7][1])
+    project_component(Projects[8][0], Projects[8][1])
     st.link_button("Go to :orange[Source Code]", "https://github.com/meotism/Quality_Assessment_Review/tree/master")
     components.iframe("https://docs.google.com/presentation/d/1a14wXlSTbYt6-oknulVRM6DZLjObwIFTfY9725mR3fk/embed?start=false&loop=false&delayms=3000", width=800, height=600, scrolling=True)
 
     # Swiftlet’s Nest Anh Xuan --------------------------------------------------------------
-    project_component(Projects[8][0], Projects[8][1])
+    project_component(Projects[9][0], Projects[9][1])
     st.video("https://www.youtube.com/watch?v=UMMOqetDDLg")
 
     # Video Conference meeting --------------------------------------------------------------
-    project_component(Projects[9][0], Projects[9][1])
+    project_component(Projects[10][0], Projects[10][1])
     st.link_button("Go to :red[Source Code]", "https://github.com/meotism/jitsi-meet")
 
     # My portfolio -----------------------------------------------------------
-    project_component(Projects[10][0], Projects[10][1])
+    project_component(Projects[11][0], Projects[11][1])
     col1, col2 = st.columns([1, 1])
     with col1:
         st.link_button("Go to :blue[Source Code]", "https://github.com/meotism/portfolio/tree/main")

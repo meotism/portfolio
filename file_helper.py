@@ -60,7 +60,9 @@ info = {'brief':
                   'Microservices','Monolithic','Console','WSGI','nginx','MongoDB',
                   'PostgreSQL','MySQL','mqtt','Crontab','Git','SSO','flask',
                   'Webhook', 'Sentry','Redis','Swagger','REST APIs',
-                  'EC2', 'S3', 'Smtp', 'Firebase', 'Celery']
+                  'EC2', 'S3', 'Smtp', 'Firebase', 'Celery',
+                  'GCP', 'Cloud Run', 'Argo-CD', 'NestJS', 'Firestore',
+                  'BigQuery', 'Supabase']
         }
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
@@ -70,9 +72,9 @@ Experience = [[":violet[Skylink Group] | Technology Solutions", "Software Engine
               """
               - :grey[**Description:**] Skylink Group provides technology solutions and services
               - :grey[**Responsibilities:**] Working as a Software Engineer
-              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, Terraform, PostgreSQL, Redis, Kafka, gRPC, Microservices, Git
+              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, Terraform, PostgreSQL, Redis, Kafka, gRPC, Microservices, Git, NestJS, BigQuery, Firestore
               """,
-            "https://skylink.com.vn/", "", ""],
+            "https://skylink.vn/", "", ""],
             [":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Business Solution",
               "Mar 2025 – Dec 2025", "HCMC, VN",
               """
@@ -123,43 +125,47 @@ Experience = [[":violet[Skylink Group] | Technology Solutions", "Software Engine
 #      'project2':[HEADER, CONTENT]
 #      ...}
 
-Projects = {  1: [":red[Quan Ly Chi Tieu] | Smart Group Expense Management Web App",
+Projects = {  1: [":violet[Thư Viện Môi Trường] | Environmental Information Portal",
+                  """
+             :grey[**Tech stack:**] WordPress, PHP, DNS, cpanel, design UI/content
+              """],
+              2: [":red[Quan Ly Chi Tieu] | Smart Group Expense Management Web App",
                   """
              :grey[**Tech stack:**] Next.js, React, TypeScript, Tailwind CSS, Supabase, Upstash Redis, Recharts, Zod, Nodemailer, Playwright, Zalo Bot
               """],
-              2: [":green[F&B Multi-channel] | Multi-channel Food & Beverage Order Management",
+              3: [":green[F&B Multi-channel] | Multi-channel Food & Beverage Order Management",
                   """
              :grey[**Tech stack:**] JavaScript, HTML, CSS, TypeScript, PLpgSQL, Supabase, Vercel Cron, Playwright, Service Workers
               """],
-              3: [":blue[Bomb IT 3D] | Interactive 3D Game Demo with Three.js",
+              4: [":blue[Bomb IT 3D] | Interactive 3D Game Demo with Three.js",
                   """
              :grey[**Tech stack:**] JavaScript, CSS, HTML, Three.js, WebGL
               """],
-              4: [":red[Cap cuu cuu ho] | Simulation SOS Emergency Vietnam map system",
+              5: [":red[Cap cuu cuu ho] | Simulation SOS Emergency Vietnam map system",
                   """
              :grey[**Tech stack:**] Python, Flask, OSM, Google S2, HTML, Shell, batchfile
               """],
-              5: [':green[English Flashcard] | Application learn vocabulary English',
+              6: [':green[English Flashcard] | Application learn vocabulary English',
             """
             :grey[**Tech stack:**] Python, Flask, HTML, css, javascript, batchfile
             """],
-              6:[":blue[Phi's] | Chatbot Assistant Website",
+              7:[":blue[Phi's] | Chatbot Assistant Website",
               """
              :grey[**Tech stack:**] Python, Streamlit, Hugging Face, SpeechRecognition, TOML
               """],
-              7:[":orange[Review University] | Website rating of universities in Vietnam",
+              8:[":orange[Review University] | Website rating of universities in Vietnam",
                 """
                 :grey[**Tech stack:**] Python, flask, Machine Learning, beautiful soup, Jupyter Notebook
                 """],
-              8:[":green[Swiftlet's Nest Anh Xuan] | Advertising website",
+              9:[":green[Swiftlet's Nest Anh Xuan] | Advertising website",
             """
             :grey[**Tech stack:**] wordpress, cpanel, DNS, LAMP server, design UI/content
             """],
-              9:[":red[Jitsi's] | Video Conference meeting",
+              10:[":red[Jitsi's] | Video Conference meeting",
             """
             :grey[**Tech stack:**] Jitsi open source, EC2, certbot, crontab, bash, duckdns, https
             """],
-              10:[':blue[Meotism] | My portfolio',
+              11:[':blue[Meotism] | My portfolio',
             """
             :grey[**Tech stack:**] Python, Streamlit, html, css
             """]
