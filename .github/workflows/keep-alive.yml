@@ -1,0 +1,25 @@
+name: Keep Streamlit App Awake
+
+on:
+  schedule:
+    # Runs every 6 hours (cron uses UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping portfolio site
+        run: |
+          curl -fsSL -A "Mozilla/5.0 (KeepAliveBot)" \
+            --retry 3 --retry-delay 10 --max-time 60 \
+            https://meotism.streamlit.app/ -o /dev/null
+          echo "Portfolio pinged at $(date -u)"
+
+      - name: Ping chatbot site
+        run: |
+          curl -fsSL -A "Mozilla/5.0 (KeepAliveBot)" \
+            --retry 3 --retry-delay 10 --max-time 60 \
+            https://phi-chatbot.streamlit.app/ -o /dev/null
+          echo "Chatbot pinged at $(date -u)"
