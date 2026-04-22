@@ -1,7 +1,14 @@
 import streamlit as st
 from file_helper import *
+from streamlit_autorefresh import st_autorefresh
 
-st.set_page_config(page_title="Main Page", page_icon="🏠", layout="wide",initial_sidebar_state="collapsed") 
+st.set_page_config(page_title="Main Page", page_icon="🏠", layout="wide",initial_sidebar_state="collapsed")
+
+if st.query_params.get("ping") == "1":
+    st.write("ok")
+    st.stop()
+
+st_autorefresh(interval=5 * 60 * 1000, key="keep_alive")
 
 margin_r,body,margin_l = st.columns([0.4, 3, 0.4])
 
