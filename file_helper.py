@@ -44,7 +44,7 @@ github_logo = '''
 # personal info (for main page) --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 info = {'brief':
               """    
-                Hi, my name's Tuan, aka Meotism. I have more than four years of experience as a Software Developer, \
+                Hi, my name's Tuan, aka Meotism. I have more than five years of experience as a Software Developer, \
                   primarily focusing on backend development using programming languages such as Python, Go, and C#.\
                     I have been consistently evaluated by those around me as a responsible person who is always committed to self-improvement. \
                       My interests include reading news, IT blogs, and listening to podcasts to stay updated on the latest technologies\
