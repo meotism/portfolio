@@ -63,7 +63,7 @@ info = {'brief':
                   'Webhook', 'Sentry','Redis','Swagger','REST APIs',
                   'EC2', 'S3', 'Smtp', 'Firebase', 'Celery',
                   'GCP', 'Cloud Run', 'Argo-CD', 'NestJS', 'Firestore',
-                  'BigQuery', 'Supabase']
+                  'BigQuery', 'Supabase', 'RevenueCat', 'WebSocket', 'WebRTC']
         }
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #[[header, subheader, date, location, content, link, link_url], [...], etc.]
