@@ -72,8 +72,13 @@ Experience = [[":violet[Skylink Group] | Technology Solutions", "Software Engine
               "Dec 2025 – Now", "HCMC, VN",
               """
               - :grey[**Description:**] Skylink Group provides technology solutions and services
-              - :grey[**Responsibilities:**] Working as a Software Engineer
-              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, PostgreSQL, Redis, gRPC, Microservices, Git, NestJS, BigQuery, Firestore
+              - :grey[**Responsibilities:**] I was responsible for architecting and developing cloud-native backend services
+
+                - Architected and deployed cloud-native microservices on Google Cloud Platform using Cloud Run and Argo-CD for GitOps-based continuous delivery
+                - Developed backend services in Python, Go, and NestJS with PostgreSQL, Redis, Firestore, and BigQuery for real-time data processing and analytics
+                - Designed and implemented gRPC-based inter-service communication across distributed microservices, improving system reliability and performance
+                - Established CI/CD pipelines and containerization workflows with Docker, ensuring automated testing and zero-downtime deployments
+              - :grey[**Tech stack:**] Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, PostgreSQL, Redis, gRPC, Microservices, Git, NestJS, BigQuery, Firestore, RevenueCat, Chart.js, WebSocket
               """,
             "https://skylink.vn/", "", ""],
             [":red[BaseBS] | CRM Platform", "Software Engineer",  "Base Business Solution",

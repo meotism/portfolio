@@ -19,7 +19,7 @@ Soft Skills: Time management, teamwork, business communication, write technical 
 * Developed backend services in Python, Go, and NestJS with PostgreSQL, Redis, Firestore, and BigQuery for real-time data processing and analytics  
 * Designed and implemented gRPC-based inter-service communication across distributed microservices, improving system reliability and performance  
 * Established CI/CD pipelines and containerization workflows with Docker, ensuring automated testing and zero-downtime deployments  
-* Stack: Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, PostgreSQL, Redis, gRPC, Microservices, Git, NestJS, BigQuery, Firestore
+* Stack: Argo-CD, Google Cloud Run, Docker, GCP, Python, Go, CI/CD, PostgreSQL, Redis, gRPC, Microservices, Git, NestJS, BigQuery, Firestore, RevenueCat, Chart.js, WebSocket
 
 **Base Business Solutions / Software Engineer	CRM / Mar 2025 \- Dec 2025**
 
