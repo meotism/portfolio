@@ -3,11 +3,12 @@ import streamlit as st
 skill_col_size = 5
 
 def menu():
-    bar0, bar1, bar2, bar3, bar4= st.columns([0.1,1,1,1,1])
+    bar0, bar1, bar2, bar3, bar4, bar5 = st.columns([0.1,1,1,1,1,1])
     bar1.page_link("mainpage.py", label="Introduction", icon="🏠")
     bar2.page_link("pages/experience.py", label= "Experience", icon="📚")
     bar3.page_link("pages/projects.py", label="Projects", icon="💻")
-    bar4.page_link("pages/contacts.py", label="Contacts", icon="🌏")
+    bar4.page_link("pages/certifications.py", label="Certifications", icon="🏆")
+    bar5.page_link("pages/contacts.py", label="Contacts", icon="🌏")
     st.write("")
 
 def footer():
@@ -171,6 +172,24 @@ Projects = {  1: [":violet[Thư Viện Môi Trường] | Environmental Informati
             """]
             }
               
+# Certifications --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# [[name, issuer, date, verify_link, extra], ...]  -- extra is optional detail line, "" if none
+Certifications = [
+    ["Introduction to CIP", "OPSWAT Academy", "May 2026",
+     "https://learn.opswatacademy.com/certificate/PmQotNbt5w",
+     ":grey[Skills: Critical Infrastructure Protection · Credential ID PmQotNbt5w · Expires May 2027]"],
+    ["MongoDB Schema Design Optimization Skill Badge", "MongoDB", "Apr 2025",
+     "https://www.credly.com/badges/e0d5028c-052f-4233-a8f1-f07c75f2c4dd", ""],
+    ["From Relational Model (SQL) to MongoDB's Document Model", "MongoDB", "Apr 2025",
+     "https://www.credly.com/badges/d74de94a-1159-4fa0-ba3c-2f16f3760626", ""],
+    ["Python Mega Course: Learn Python in 60 Days, Build 20 Apps", "Udemy", "Aug 2024",
+     "https://www.udemy.com/certificate/UC-a6ebd616-77d3-4f7e-8235-92a8583ada31/", ""],
+    ["SQL (Intermediate) Certificate", "HackerRank", "Mar 2023",
+     "https://www.hackerrank.com/certificates/65fd556eb895", ""],
+    ["VNU-EPT: B1.2", "VietNam National University", "May 2022",
+     "https://www.etcvnu.edu.vn/en", ""],
+]
+
 # Contacts --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 phone = "0935724391"
 email = "tranngoctuan391@gmail.com"
